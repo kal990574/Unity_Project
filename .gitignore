@@ -13,7 +13,6 @@ UnityGenerated/
 Library/
  
  
- 
 # ===================================== #
  
 # Visual Studio / MonoDevelop generated #
@@ -26,13 +25,9 @@ ExportedObj/
  
 *.userprefs
  
-*.csproj
- 
 *.pidb
  
 *.suo
- 
-*.sln
  
 *.user
  
