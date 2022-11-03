@@ -21,6 +21,10 @@ Library/
  
 ExportedObj/
  
+*.sln
+
+*.csproj
+
 *.svd
  
 *.userprefs
