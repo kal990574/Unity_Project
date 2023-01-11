@@ -1,5 +1,5 @@
 ## unity-3d-escape-game
 
-  Project With Johnlemon Asset  
+  project with johnlemon asset  
 
-  Complete Deployment
+  complete deployment
